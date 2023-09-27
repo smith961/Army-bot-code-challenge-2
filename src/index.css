@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.bot-card{
+  border: 1px solid grey;
+  box-shadow: 0 0 4px black;
+  width: 250px;
+  margin: 20px;
+  background-color: orange;
+}
+
+.bot-img img{
+  width: 200px;
+  
+}
+
+.cards-display{
+display: inline-grid;
+width: 17rem;
+text-align: center;
+align-items: center;
+margin: auto;
+align-content: center;
+}
+
+.bot-container{
+ max-width: 50%;
+}
+
+.army-container{
+  position: relative;
+  margin-left: 50%;
+}
